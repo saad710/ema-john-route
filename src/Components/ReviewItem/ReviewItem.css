@@ -1,0 +1,11 @@
+.review-item{
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+    
+}
+.product-item{
+    color:blue;
+    font-weight: 600;
+}
